@@ -10,6 +10,7 @@ This instabot can\
 -Like/Unlike posts\
  Liking the top 30 posts. Print message if already liked it.\
  Unliking the top 30 posts. Print message if already unliked it.\
+-List the followers of a searched profile.\
 -Check the story. \
  If already seen the story.\
  Or The user has no story.\
