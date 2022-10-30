@@ -13,4 +13,4 @@ This instabot can\
 -Check the story. \
  If already seen the story.\
  Or The user has no story.\
- Or View the story if not yet seen\
+ Or View the story if not yet seen
