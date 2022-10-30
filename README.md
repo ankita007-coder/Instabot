@@ -1,5 +1,5 @@
 # Instabot
-This instabot can \n
+##This instabot can
 -Login to your Instagram Handle 
 -Type in search bar and print all the names of the Instagram Handles that are displayed in list after typing in the search bar
  Note : No hashtags are printed
